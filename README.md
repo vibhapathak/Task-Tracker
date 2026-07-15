@@ -20,7 +20,7 @@ After seeding, three users exist (see [Seeding the database](#3-seed-the-databas
 
 | Role    | Email                    | Password       |
 |---------|---------------------------|----------------|
-| Admin   | admin@tasktracker.dev     | `Password123!` |
+| Admin   | vibha@tasktracker.dev     | `Password123!` |
 | Manager | manager@tasktracker.dev   | `Password123!` |
 | Member  | member@tasktracker.dev    | `Password123!` |
 
